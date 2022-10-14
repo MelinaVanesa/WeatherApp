@@ -11,7 +11,7 @@ body{
     justify-content: center;
     min-height: 100vh;
     background: #0b005c;
-    background: url('icons/gifeano.gif');
+    background: url('https://raw.githubusercontent.com/MelinaVanesa/WeatherApp/master/Icons/gifeano.gif');
 }
 .wrapper{
     width: 400px;
